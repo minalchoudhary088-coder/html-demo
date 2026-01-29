@@ -1,8 +1,1 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-</head>
-<body>
-<h1>HI</h1>
-</body>
-</html>
+
